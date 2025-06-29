@@ -1,5 +1,5 @@
 # SaveMeNowApp
-SaveMeNow is an application that connects your mobile phone with the nearest fire emergency service quickly and efficiently.  In the event of an incident, SaveMeNow sends data in real time, manually or automatically, to the nearest 1-1-2. See https://www.savemenowapp.com
+SaveMeNow is an application that connects your mobile phone with the nearest fire emergency service quickly and efficiently.  In the event of an incident, SaveMeNow sends data in real time, manually or automatically, to the nearest 1-1-2. See https://www.savemenowapp.com 
 
 ![Captura de pantalla 2020-09-28 a la(s) 15 32 21](https://github.com/RescueSocialTech/SaveMeNowApp/assets/55333723/6a0c011d-3ddb-4d91-92a9-39a7584996a5)
 
