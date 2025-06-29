@@ -18,4 +18,4 @@ How do we do it?<br>
 Through an application on your mobile that automatically connects your phone with the nearest fire service and any 1-1-2 center throughout Europe. In reality it is something more complex, but we already take care of that.<br><br>
 
 Why an emergency App?<br>
-Because the data we send through an emergency application can save lives or minimize the effects of the incident. Register and when the App is available we will notify you so you can be one of the first to try it.
+Because the data we send through an emergency application can save lives or minimize the effects of the incident. Register and when the App is available we will notify you so you can be one of the first to try it. 
